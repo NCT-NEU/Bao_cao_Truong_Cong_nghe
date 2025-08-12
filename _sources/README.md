@@ -34,47 +34,47 @@
   - Các công việc chậm tiến độ
 * - Công tác đào tạo nhân sự
   - 
-    - [Bồi dưỡng chuyên môn nghiệp vụ cho cán bộ giảng viên]()
-    - [Tổ chức các hoạt động nâng cao kỹ năng cho cán bộ, giảng viên]()
+    - [Bồi dưỡng chuyên môn nghiệp vụ cho cán bộ giảng viên](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/boi-duong-chuyen-mon-nghiep-vu-cho-can-bo-giang-vien.html)
+    - [Tổ chức các hoạt động nâng cao kỹ năng cho cán bộ, giảng viên](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/to-chuc-cac-hoat-ong-nang-cao-ky-nang-cho-can-bo-giang-vien.html)
   - '-'
 * - Công tác sinh viên/cựu sinh viên.
   - 
-    - [Ban liên lạc cựu sinh viên]()
-    - [Câu lạc bộ sinh viên]()
-    - [Hoạt động ngoại khóa sinh viên]()
-    - [Ngày hội thực tập và việc làm]()
+    - [Ban liên lạc cựu sinh viên](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/ban-lien-lac-cuu-sinh-vien.html)
+    - [Câu lạc bộ sinh viên](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/cau-lac-bo-sinh-vien.html)
+    - [Hoạt động ngoại khóa sinh viên](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/hoat-ong-ngoai-khoa-sinh-vien.html)
+    - [Ngày hội thực tập và việc làm](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/ngay-hoi-thuc-tap-va-viec-lam.html)
   - ""
 * - Đào tạo và hỗ trợ đào tạo.
   - 
-    - [Công bố đề cương chi tiết các môn học]()
-    - [Rà soát nội dung tất cả các môn học]()
-    - [Sinh hoạt khoa học nhóm chuyên môn]()
-    - [Tọa đàm mở ngành đào tạo mới]()
-    - [Xây dựng chương trình đào tạo mới]()
+    - [Công bố đề cương chi tiết các môn học](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/cong-bo-e-cuong-chi-tiet-cac-mon-hoc.html)
+    - [Rà soát nội dung tất cả các môn học](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/ra-soat-noi-dung-tat-ca-cac-mon-hoc.html)
+    - [Sinh hoạt khoa học nhóm chuyên môn](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/sinh-hoat-khoa-hoc-nhom-chuyen-mon.html)
+    - [Tọa đàm mở ngành đào tạo mới](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/toa-am-mo-nganh-ao-tao-moi.html)
+    - [Xây dựng chương trình đào tạo mới](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/xay-dung-chuong-trinh-ao-tao-moi.html)
   - 
-    - [Chương trình đào tạo thiết kế vi mạch không xưởng]()
-    - [Hệ sinh thái AI cho Đại học]()
-    - [Hoạt động của Trung tâm dữ liệu]()
-    - [Môn học Khoa học dữ liệu cơ bản]()
-    - [Triển khai các phần mềm hỗ trợ nghiên cứu và đào tạo]()
+    - [Chương trình đào tạo thiết kế vi mạch không xưởng](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/chuong-trinh-ao-tao-thiet-ke-vi-mach-khong-xuong.html)
+    - [Hệ sinh thái AI cho Đại học](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/he-sinh-thai-ai-cho-ai-hoc.html)
+    - [Hoạt động của Trung tâm dữ liệu](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/hoat-ong-cua-trung-tam-du-lieu.html)
+    - [Môn học Khoa học dữ liệu cơ bản](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/mon-hoc-khoa-hoc-du-lieu-co-ban.html)
+    - [Triển khai các phần mềm hỗ trợ nghiên cứu và đào tạo](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/trien-khai-cac-phan-mem-ho-tro-nghien-cuu-va-ao-tao.html)
 
 * - Nghiên cứu Khoa học.
   - 
   - 
-    - [Hoạt động của các Phòng nghiên cứu (Labs)]()
-    - [Hoạt động của Trung tâm mô phỏng kinh tế]()
-    - [Quy định đào tạo Nghiên cứu sinh toàn thời gian]()
+    - [Hoạt động của các Phòng nghiên cứu (Labs)](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/hoat-ong-cua-cac-phong-nghien-cuu-labs.html)
+    - [Hoạt động của Trung tâm mô phỏng kinh tế](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/hoat-ong-cua-trung-tam-mo-phong-kinh-te.html)
+    - [Quy định đào tạo Nghiên cứu sinh toàn thời gian](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/quy-inh-ao-tao-nghien-cuu-sinh-toan-thoi-gian.html)
 
 * - Tư vấn tuyển sinh.
   - 
-    - [Hoạt động tư vấn tuyển sinh truyền thống]()
-    - [Truyền thông và kết nối trên các nền tảng]()
+    - [Hoạt động tư vấn tuyển sinh truyền thống](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/hoat-ong-tu-van-tuyen-sinh-truyen-thong.html)
+    - [Truyền thông và kết nối trên các nền tảng](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/quy-inh-ao-tao-nghien-cuu-sinh-toan-thoi-gian.html)
   - ""
 * - Xây dựng quy chế/quy định.
   - 
-    - [Hoạt động hội đồng chuyên môn Trường]()
-    - [Quy định quản lý vận hành các Chương trình EP]()
-    - [Quy định hoạt động các Phòng nghiên cứu]()
+    - [Hoạt động hội đồng chuyên môn Trường](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/hoat-ong-hoi-ong-chuyen-mon-truong.html)
+    - [Quy định quản lý vận hành các Chương trình EP](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/quy-inh-quan-ly-van-hanh-cac-chuong-trinh-ep.html)
+    - [Quy định hoạt động các Phòng nghiên cứu](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/quy-inh-hoat-ong-cac-phong-nghien-cuu.html)
   - 
 
 ```
