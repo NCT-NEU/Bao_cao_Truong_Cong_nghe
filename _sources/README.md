@@ -52,18 +52,18 @@
     - [Tọa đàm mở ngành đào tạo mới]()
     - [Xây dựng chương trình đào tạo mới]()
   - 
-    - <span style="color: red;">Chương trình đào tạo thiết kế vi mạch không xưởng</span>
-    - Hệ sinh thái AI cho Đại học
-    - Hoạt động của Trung tâm dữ liệu
-    - Môn học Khoa học dữ liệu cơ bản
-    - Triển khai các phần mềm hỗ trợ nghiên cứu và đào tạo
+    - [Chương trình đào tạo thiết kế vi mạch không xưởng]()
+    - [Hệ sinh thái AI cho Đại học]()
+    - [Hoạt động của Trung tâm dữ liệu]()
+    - [Môn học Khoa học dữ liệu cơ bản]()
+    - [Triển khai các phần mềm hỗ trợ nghiên cứu và đào tạo]()
 
 * - Nghiên cứu Khoa học.
   - 
   - 
-    - <a href="URL_CỦA_BẠN" class="custom-hover-link">Hoạt động của các Phòng nghiên cứu (Labs)</a>
-    - <a href="URL_CỦA_BẠN" class="custom-hover-link">Hoạt động của Trung tâm mô phỏng kinh tế</a>
-    - <a href="URL_CỦA_BẠN" class="custom-hover-link">Quy định đào tạo Nghiên cứu sinh toàn thời gian</a>
+    - [Hoạt động của các Phòng nghiên cứu (Labs)]()
+    - [Hoạt động của Trung tâm mô phỏng kinh tế]()
+    - [Quy định đào tạo Nghiên cứu sinh toàn thời gian]()
 
 * - Tư vấn tuyển sinh.
   - 
@@ -75,6 +75,6 @@
     - [Hoạt động hội đồng chuyên môn Trường]()
     - [Quy định quản lý vận hành các Chương trình EP]()
     - [Quy định hoạt động các Phòng nghiên cứu]()
-  - ""
+  - 
 
 ```
