@@ -1,23 +1,24 @@
 ### Chương trình đào tạo thiết kế vi mạch không xưởng
 <hr>
 
-**Tình trạng:** 🟢 Đúng tiến độ
+**Tình trạng:** 🔴 Không đúng tiến độ/kế hoạch
 
-**Mô tả công việc:** Phối hợp với Phòng Quàn lý đào tạo xây dựng chương trình ĐT thiết kế chíp/vi mạch không xưởng.
+**Mô tả công việc:** Phối hợp với Phòng Quàn lý đào tạo xây dựng chương trình ĐT thiết kế chíp/vi mạch không xưởng. Công việc trước mắt là hoàn thiện đề án/kế hoạch nêu rõ các bước cụ thể để tiến tới đào tạo ngành bán dẫn tại Trường.
 
 ✅ **Các công việc đã làm:**
 
-- Đã tham khảo các đơn vị đào tạo trong nước và trên thế giới về đào tạo bán dẫn.
+- Tham khảo các đơn vị đào tạo trong nước và trên thế giới về đào tạo bán dẫn.
 
 🧰 **Những công việc cần hoàn thiện:**
 
-- Tiếp tục nghiên cứu và tìm hiểu về đào tạo Bán dẫn
+- Liên hệ với các Trường tại Việt Nam đã có đào tạo về điện, điện tử, thiết kế vi mạch để học hỏi kinh nghiệm.
+- Làm việc trao đổi với các Trường ở Đài Loan có kinh nghiệm về đào tạo bán dẫn
 
 ⚠️ **Khó khăn vướng mắc:**
 
 🧠 *Khó khăn chủ quan:*
 
-Trường Đại học Kinh tế Quốc dân không có đủ chuyên gia/chuyên môn có khả năng xây dựng chương trình đào tạo ngành đào tạo bán dẫn.
+Trường Công nghệ không có đủ chuyên gia có đủ chuyên môn có khả năng xây dựng chương trình đào tạo ngành đào tạo bán dẫn.
 
 🌐 *Khó khăn khách quan:*
 

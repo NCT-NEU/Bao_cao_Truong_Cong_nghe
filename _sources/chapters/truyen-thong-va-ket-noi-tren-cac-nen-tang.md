@@ -3,13 +3,13 @@
 
 **Tình trạng:** 🟢 Đúng tiến độ
 
-**Mô tả công việc:** Triển khai hoạt động truyền thông, kết nối trên trang Web và các trang mạng xã hội.
+**Mô tả công việc:** Xây dựng, cập nhật nội dung và quản lý trang Web cùng các kênh mạng xã hội để quảng bá thông tin, kết nối với đối tượng mục tiêu. Đảm bảo nội dung hấp dẫn, chính xác và phù hợp; tăng tương tác qua bài viết, hình ảnh, video và các chiến dịch truyền thông. Giám sát, phân tích hiệu quả hoạt động để điều chỉnh kế hoạch đạt kết quả tốt nhất.
 
 ✅ **Các công việc đã làm:**
 
-- Trường Đại học Kinh tế Quốc dân Đã công bố Kế hoạch tổng thể về truyền thông
-- Trang web của Trường Đại học Kinh tế Quốc dân và các Khoa liên tục cập nhật thông tin và các bài viết
-- Trường Đại học Kinh tế Quốc dân Đã thực hiện và công bố Video giới thiệu về Trường Đại học Kinh tế Quốc dân.
+- Trường đã công bố Kế hoạch tổng thể về truyền thông
+- Trang web của Trường và các Khoa liên tục cập nhật thông tin và các bài viết
+- Trường đã thực hiện và công bố Video giới thiệu
 
 🧰 **Những công việc cần hoàn thiện:**
 

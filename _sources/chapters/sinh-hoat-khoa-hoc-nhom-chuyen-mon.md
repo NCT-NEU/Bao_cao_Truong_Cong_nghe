@@ -1,7 +1,7 @@
 ### Sinh hoạt khoa học nhóm chuyên môn
 <hr>
 
-**Tình trạng:** ⚪ Chưa cập nhật
+**Tình trạng:** 🟢 Đúng tiến độ
 
 **Mô tả công việc:** Tổ chức sinh hoạt Khoa học nhóm chuyên môn.
 

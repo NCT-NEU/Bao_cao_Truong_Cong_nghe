@@ -1,16 +1,16 @@
 ### Hoạt động của Trung tâm dữ liệu
 <hr>
 
-**Tình trạng:** 🟢 Đúng tiến độ
+**Tình trạng:** 🔴 Không đúng tiến độ/kế hoạch
 
-**Mô tả công việc:** Xây dựng một trung tâm dữ liệu với nhiệm vụ chính là thu thập, dữ liệu phục vụ cho mục đích nghiên cứu và giảng dạy
+**Mô tả công việc:** Xây dựng Trung tâm Dữ liệu với nhiệm vụ thu thập, lưu trữ và quản lý dữ liệu phục vụ nghiên cứu và giảng dạy. Thiết lập hạ tầng công nghệ, quy trình thu thập và chuẩn hóa dữ liệu từ nhiều nguồn, đảm bảo tính bảo mật và tuân thủ pháp luật. Phối hợp với các đơn vị để đáp ứng nhu cầu sử dụng, cung cấp công cụ phân tích dữ liệu và đào tạo người dùng. Liên tục cập nhật, mở rộng cơ sở dữ liệu để hỗ trợ hiệu quả hoạt động học thuật của trường.
 
 ✅ **Các công việc đã làm:**
 
-- Đã hoàn thiện kế hoạch vận hành trung tâm dữ liệu
-- Đã bổ nhiệm cán bộ phụ trách
-- Đã khảo sát nhu cầu sử dụng dữ liệu của cán bộ giảng viên trong Đại học
-- Đã thu thập các dữ liệu phục vụ nghiên cứu và đào tạo (vĩ mô, chứng khoán, tài chính, …).
+- Hoàn thiện kế hoạch vận hành trung tâm dữ liệu
+- Đề xuất Giám đốc đại học bổ nhiệm cán bộ phụ trách (TS. Phạm Thảo)
+- Hoàn thành khảo sát nhu cầu sử dụng dữ liệu của cán bộ giảng viên trong Đại học
+- Xây dựng các công cụ thu thập các dữ liệu phục vụ nghiên cứu và đào tạo (vĩ mô, chứng khoán, tài chính, …).
 
 🧰 **Những công việc cần hoàn thiện:**
 

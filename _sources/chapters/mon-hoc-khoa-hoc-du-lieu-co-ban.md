@@ -1,20 +1,21 @@
 ### Môn học Khoa học dữ liệu cơ bản
 <hr>
 
-**Tình trạng:** 🟢 Đúng tiến độ
+**Tình trạng:** 🔴 Không đúng tiến độ/kế hoạch
 
-**Mô tả công việc:** Xây dựng và triển khai môn học Khoa học dữ liệu giảng dạy chung cho toàn Đại học.
+**Mô tả công việc:** Thiết kế và phát triển chương trình môn học Khoa học Dữ liệu nhằm phục vụ giảng dạy chung cho toàn bộ sinh viên trong Đại học. Công việc bao gồm xây dựng đề cương chi tiết, xác định mục tiêu, nội dung học tập, phương pháp giảng dạy và đánh giá phù hợp với nhiều nhóm ngành khác nhau. Triển khai đào tạo đội ngũ giảng viên, chuẩn bị tài liệu học tập, bài giảng và công cụ hỗ trợ như phần mềm phân tích dữ liệu. Đảm bảo môn học được tổ chức hiệu quả, đáp ứng nhu cầu trang bị kiến thức cơ bản về khoa học dữ liệu cho sinh viên toàn trường, đồng thời liên tục cập nhật nội dung để bắt kịp xu hướng và ứng dụng thực tiễn của lĩnh vực này.
 
 ✅ **Các công việc đã làm:**
 
-- Đẫ hoàn thiện giáo trình môn học
-- Đã hoàn thiện đề cương chi tiết cho môn học
-- Đã hoàn thiện bộ bài giảng môn học
-- Đã triển khai tập huấn cho giảng viên toàn Trường Đại học Kinh tế Quốc dân.
+- Hoàn thiện giáo trình môn học
+- Hoàn thiện đề cương chi tiết cho môn học
+- Hoàn thiện bộ bài giảng môn học
+- Triển khai tập huấn cho giảng viên toàn Trường Đại học Kinh tế Quốc dân.
 
 🧰 **Những công việc cần hoàn thiện:**
 
 - Rà soát cập nhật nội dung giáo trình và bài giảng
+- Chuẩn bị ngân hàng câu hỏi và đưa lên hệ thống thi trắc nghiệm
 - Tập huấn cho cán bộ giảng viên toàn NEU.
 
 ⚠️ **Khó khăn vướng mắc:**

@@ -1,7 +1,7 @@
 ### Câu lạc bộ sinh viên
 <hr>
 
-**Tình trạng:** ⚪ Chưa cập nhật
+**Tình trạng:** 🟢 Đúng tiến độ
 
 **Mô tả công việc:** Triển khai các câu lạc bộ sinh viên.
 

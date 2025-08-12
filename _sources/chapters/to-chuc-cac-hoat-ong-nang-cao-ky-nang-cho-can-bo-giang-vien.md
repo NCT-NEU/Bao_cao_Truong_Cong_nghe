@@ -1,7 +1,7 @@
-### Tổ chức các hoạt động cho cán bộ, giảng viên.
+### Tổ chức các hoạt động nâng cao kỹ năng cho cán bộ, giảng viên
 <hr>
 
-**Tình trạng:** ⚪ Chưa cập nhật
+**Tình trạng:** 🟢 Đúng tiến độ
 
 **Mô tả công việc:** Tổ chức các hoạt động cho cán bộ, giảng viên.
 

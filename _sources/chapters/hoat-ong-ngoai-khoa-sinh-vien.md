@@ -1,7 +1,7 @@
 ### Hoạt động ngoại khóa sinh viên
 <hr>
 
-**Tình trạng:** ⚪ Chưa cập nhật
+**Tình trạng:** 🟢 Đúng tiến độ
 
 **Mô tả công việc:** Tổ chức các hoạt động ngoại khóa cho sinh viên.
 

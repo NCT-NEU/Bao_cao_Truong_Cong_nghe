@@ -3,7 +3,7 @@
 
 **Tình trạng:** 🟢 Đúng tiến độ
 
-**Mô tả công việc:** Hoàn thiện quy định hoạt động của các Phòng nghiên cứu.
+**Mô tả công việc:** Rà soát, điều chỉnh và bổ sung quy định hoạt động cho các Phòng nghiên cứu đảm bảo tính chuyên nghiệp và hiệu quả. Tham khảo mô hình trong/ngoài nước, lấy ý kiến từ các bên liên quan để hoàn thiện nội dung. Đảm bảo quy định rõ ràng, khả thi, bao quát các hoạt động nghiên cứu, quản lý tài chính và báo cáo. Triển khai hướng dẫn áp dụng và giám sát thực hiện.
 
 ✅ **Các công việc đã làm:**
 

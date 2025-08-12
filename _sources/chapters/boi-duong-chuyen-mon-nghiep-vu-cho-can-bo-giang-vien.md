@@ -1,7 +1,7 @@
 ### Bồi dưỡng chuyên môn nghiệp vụ cho cán bộ giảng viên
 <hr>
 
-**Tình trạng:** ⚪ Chưa cập nhật
+**Tình trạng:** 🟢 Đúng tiến độ
 
 **Mô tả công việc:** Tổ chức các lớp bồi dưỡng chuyên môn nghiệp vụ cho cán bộ giảng viên.
 
