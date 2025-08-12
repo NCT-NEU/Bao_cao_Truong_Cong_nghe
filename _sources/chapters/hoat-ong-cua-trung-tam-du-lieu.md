@@ -3,7 +3,7 @@
 
 **Tình trạng:** 🟢 Đúng tiến độ
 
-**Mô tả công việc:** Vận hành Trung tâm dữ liệu.
+**Mô tả công việc:** Xây dựng một trung tâm dữ liệu với nhiệm vụ chính là thu thập, dữ liệu phục vụ cho mục đích nghiên cứu và giảng dạy
 
 ✅ **Các công việc đã làm:**
 

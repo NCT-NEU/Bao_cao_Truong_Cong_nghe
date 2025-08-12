@@ -32,7 +32,7 @@
     <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
@@ -205,19 +205,19 @@
 <li class="toctree-l1"><a class="reference internal" href="chapters/hoat-ong-tu-van-tuyen-sinh.html">Hoạt động tư vấn tuyển sinh</a></li>
 <li class="toctree-l1"><a class="reference internal" href="chapters/truyen-thong-va-ket-noi-tren-cac-nen-tang.html">Truyền thông và kết nối trên các nền tảng</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading"><span class="caption-text">Công tác sinh viên/cựu sinh viên.</span></p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Công tác sinh viên và cựu sinh viên.</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="chapters/ban-lien-lac-cuu-sinh-vien.html">Ban liên lạc cựu sinh viên</a></li>
 <li class="toctree-l1"><a class="reference internal" href="chapters/hoat-ong-ngoai-khoa-sinh-vien.html">Hoạt động ngoại khóa sinh viên</a></li>
 <li class="toctree-l1"><a class="reference internal" href="chapters/cau-lac-bo-sinh-vien.html">Câu lạc bộ sinh viên</a></li>
 <li class="toctree-l1"><a class="reference internal" href="chapters/ngay-hoi-thuc-tap-va-viec-lam.html">Ngày hội thực tập và việc làm</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading"><span class="caption-text">Công tác nhân sự/bồi dưỡng nhân sự</span></p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Công tác nhân sự và bồi dưỡng nhân sự</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="chapters/boi-duong-chuyen-mon-nghiep-vu-cho-can-bo-giang-vien.html">Bồi dưỡng chuyên môn nghiệp vụ cho cán bộ giảng viên</a></li>
 <li class="toctree-l1"><a class="reference internal" href="chapters/to-chuc-cac-hoat-ong-cho-can-bo-giang-vien.html">Tổ chức các hoạt động cho cán bộ, giảng viên.</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading"><span class="caption-text">Xây dựng quy chế/quy định.</span></p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Xây dựng quy chế và quy định.</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="chapters/quy-che-nghien-cuu-sinh-toan-thoi-gian.html">Quy chế Nghiên cứu sinh toàn thời gian</a></li>
 <li class="toctree-l1"><a class="reference internal" href="chapters/hoat-ong-hoi-ong-chuyen-mon-truong.html">Hoạt động hội đồng chuyên môn Trường</a></li>
@@ -399,24 +399,13 @@ document.write(`
                   
   <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="o">!</span>jupyter-book<span class="w"> </span>build<span class="w"> </span>.
-</pre></div>
-</div>
-</div>
-<div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>^C
-</pre></div>
-</div>
-</div>
-</div>
-<div class="cell docutils container">
-<div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span><span class="w"> </span><span class="nn">pathlib</span><span class="w"> </span><span class="kn">import</span> <span class="n">Path</span>
 <span class="kn">import</span><span class="w"> </span><span class="nn">re</span><span class="o">,</span><span class="w"> </span><span class="nn">unicodedata</span>
 <span class="kn">import</span><span class="w"> </span><span class="nn">pandas</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">pd</span>
 <span class="kn">from</span><span class="w"> </span><span class="nn">ruamel.yaml</span><span class="w"> </span><span class="kn">import</span> <span class="n">YAML</span>
 <span class="kn">import</span><span class="w"> </span><span class="nn">nbformat</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">nbf</span>  <span class="c1"># chỉ dùng khi OUTPUT_FORMAT=&quot;ipynb&quot;</span>
 <span class="kn">import</span><span class="w"> </span><span class="nn">os</span>
+<span class="kn">from</span><span class="w"> </span><span class="nn">pathlib</span><span class="w"> </span><span class="kn">import</span> <span class="n">Path</span>
 
 <span class="k">def</span><span class="w"> </span><span class="nf">remove_content_after_parts</span><span class="p">(</span><span class="n">file_path</span><span class="p">):</span>
     <span class="k">try</span><span class="p">:</span>
@@ -465,8 +454,11 @@ document.write(`
                 <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Lỗi khi xóa file </span><span class="si">{</span><span class="n">file_path</span><span class="si">}</span><span class="s2">: </span><span class="si">{</span><span class="n">e</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
 
 <span class="c1"># ========== CẤU HÌNH ==========</span>
-<span class="n">BOOK_ROOT</span>      <span class="o">=</span> <span class="n">Path</span><span class="p">(</span><span class="sa">r</span><span class="s2">&quot;D:\Sach Khoa hoc du lieu trong Kinh te va Kinh doanh\report tu dong&quot;</span><span class="p">)</span>  <span class="c1"># thư mục chứa _config.yml, _toc.yml</span>
-<span class="n">EXCEL_PATH</span>     <span class="o">=</span> <span class="n">Path</span><span class="p">(</span><span class="sa">r</span><span class="s2">&quot;D:\Sach Khoa hoc du lieu trong Kinh te va Kinh doanh\report tu dong\chapters\data\Ke_hoach_cong_viec_11082025.xlsx&quot;</span><span class="p">)</span>
+<span class="n">BOOK_ROOT</span> <span class="o">=</span> <span class="n">Path</span><span class="o">.</span><span class="n">cwd</span><span class="p">()</span>
+
+<span class="n">BOOK_ROOT</span>      <span class="o">=</span> <span class="n">Path</span><span class="o">.</span><span class="n">cwd</span><span class="p">()</span> <span class="c1"># Path(r&quot;D:\Sach Khoa hoc du lieu trong Kinh te va Kinh doanh\report tu dong&quot;)  # thư mục chứa _config.yml, _toc.yml</span>
+<span class="n">EXCEL_PATH</span>     <span class="o">=</span> <span class="n">Path</span><span class="o">.</span><span class="n">cwd</span><span class="p">()</span><span class="o">/</span><span class="s2">&quot;Ke_hoach_cong_viec.xlsx&quot;</span>
+<span class="n">folder_path</span>    <span class="o">=</span> <span class="n">Path</span><span class="o">.</span><span class="n">cwd</span><span class="p">()</span><span class="o">/</span><span class="s2">&quot;chapters&quot;</span>
 <span class="n">SHEET_NAME</span>     <span class="o">=</span> <span class="mi">0</span>                    <span class="c1"># hoặc &quot;Sheet1&quot;</span>
 <span class="n">OUTPUT_FORMAT</span>  <span class="o">=</span> <span class="s2">&quot;md&quot;</span>                 <span class="c1"># &quot;md&quot; hoặc &quot;ipynb&quot;</span>
 <span class="n">DEFAULT_GROUP</span>  <span class="o">=</span> <span class="s2">&quot;Khác&quot;</span>               <span class="c1"># caption mặc định nếu ô nhóm trống</span>
@@ -572,7 +564,7 @@ document.write(`
 
 <span class="c1"># 0) Xóa file .md hiện có</span>
 <span class="c1"># Thay đổi đường dẫn đến thư mục của bạn</span>
-<span class="n">folder_path</span> <span class="o">=</span> <span class="sa">r</span><span class="s2">&quot;D:\Sach Khoa hoc du lieu trong Kinh te va Kinh doanh\report tu dong\chapters&quot;</span>
+
 <span class="n">delete_md_files</span><span class="p">(</span><span class="n">folder_path</span><span class="p">)</span>
 
 <span class="c1"># 1) Đọc Excel</span>
@@ -588,7 +580,7 @@ document.write(`
 
 <span class="c1"># 3) Load TOC</span>
 <span class="c1"># Thay đổi đường dẫn đến file của bạn</span>
-<span class="n">file_path</span> <span class="o">=</span> <span class="s2">&quot;_toc.yaml&quot;</span>
+<span class="n">file_path</span> <span class="o">=</span> <span class="n">TOC_PATH</span>
 <span class="n">remove_content_after_parts</span><span class="p">(</span><span class="n">file_path</span><span class="p">)</span>
 
 <span class="n">yaml</span> <span class="o">=</span> <span class="n">YAML</span><span class="p">()</span>
@@ -707,11 +699,35 @@ document.write(`
 Đã xóa: D:\Sach Khoa hoc du lieu trong Kinh te va Kinh doanh\report tu dong\chapters\trien-khai-cac-phan-mem-ho-tro-nghien-cuu-va-ao-tao.md
 Đã xóa: D:\Sach Khoa hoc du lieu trong Kinh te va Kinh doanh\report tu dong\chapters\truyen-thong-va-ket-noi-tren-cac-nen-tang.md
 Đã xóa: D:\Sach Khoa hoc du lieu trong Kinh te va Kinh doanh\report tu dong\chapters\xay-dung-chuong-trinh-ao-tao-moi.md
-Lỗi khi xử lý file: [Errno 2] No such file or directory: &#39;_toc.yaml&#39;
-Tạo 0 chapter mới, theo nhóm (caption) trong _toc.yml:
+</pre></div>
+</div>
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Tạo 24 chapter mới, theo nhóm (caption) trong _toc.yml:
+  [Đào tạo và hỗ trợ đào tạo.] - chapters/ra-soat-noi-dung-tat-ca-cac-mon-hoc
+  [Đào tạo và hỗ trợ đào tạo.] - chapters/cong-bo-e-cuong-chi-tiet-cac-mon-hoc
+  [Nghiên cứu Khoa học.] - chapters/hoat-ong-cua-cac-phong-nghien-cuu-labs
+  [Đào tạo và hỗ trợ đào tạo.] - chapters/sinh-hoat-khoa-hoc-nhom-chuyen-mon
+  [Tư vấn tuyển sinh.] - chapters/hoat-ong-tu-van-tuyen-sinh
+  [Tư vấn tuyển sinh.] - chapters/truyen-thong-va-ket-noi-tren-cac-nen-tang
+  [Công tác sinh viên và cựu sinh viên.] - chapters/ban-lien-lac-cuu-sinh-vien
+  [Công tác nhân sự và bồi dưỡng nhân sự] - chapters/boi-duong-chuyen-mon-nghiep-vu-cho-can-bo-giang-vien
+  [Công tác nhân sự và bồi dưỡng nhân sự] - chapters/to-chuc-cac-hoat-ong-cho-can-bo-giang-vien
+  [Công tác sinh viên và cựu sinh viên.] - chapters/hoat-ong-ngoai-khoa-sinh-vien
+  ...
 
 Giờ build sách:
   jupyter-book build D:\Sach Khoa hoc du lieu trong Kinh te va Kinh doanh\report tu dong
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="o">!</span>jupyter-book<span class="w"> </span>build<span class="w"> </span>.
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>^C
 </pre></div>
 </div>
 </div>
