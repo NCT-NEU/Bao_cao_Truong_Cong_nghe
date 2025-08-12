@@ -52,11 +52,11 @@
     - [Tọa đàm mở ngành đào tạo mới]()
     - [Xây dựng chương trình đào tạo mới]()
   - 
-    - <a href="URL_CỦA_BẠN" class="custom-hover-link">Chương trình đào tạo thiết kế vi mạch không xưởng</a>
-    - <a href="URL_CỦA_BẠN" class="custom-hover-link">Hệ sinh thái AI cho Đại học</a>
-    - <a href="URL_CỦA_BẠN" class="custom-hover-link">Hoạt động của Trung tâm dữ liệu</a>
-    - <a href="URL_CỦA_BẠN" class="custom-hover-link">Môn học Khoa học dữ liệu cơ bản</a>
-    - <a href="URL_CỦA_BẠN" class="custom-hover-link">Triển khai các phần mềm hỗ trợ nghiên cứu và đào tạo</a>
+    - <span style="color: red;">Chương trình đào tạo thiết kế vi mạch không xưởng</span>
+    - Hệ sinh thái AI cho Đại học
+    - Hoạt động của Trung tâm dữ liệu
+    - Môn học Khoa học dữ liệu cơ bản
+    - Triển khai các phần mềm hỗ trợ nghiên cứu và đào tạo
 
 * - Nghiên cứu Khoa học.
   - 
