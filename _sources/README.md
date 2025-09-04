@@ -1,6 +1,6 @@
 # Báo cáo hoạt động Trường Công nghệ
 
-**Cập nhật ngày 13 tháng 08 năm 2025**
+**Cập nhật ngày 31 tháng 08 năm 2025**
 
 Đây là báo cáo cập nhật **định kỳ hàng tuần** về toàn bộ hoạt động của Trường Công nghệ - Đại học Kinh tế Quốc dân. Báo cáo tổng hợp đầy đủ các đầu mục trong kế hoạch công tác đã được phê duyệt và các nhiệm vụ phát sinh trong năm 2025, đồng thời trình bày thực trạng, những khó khăn/vướng mắc và đề xuất giải pháp cho từng đầu mục.
 
