@@ -14,8 +14,8 @@
 
 🧰 **Những công việc cần hoàn thiện:**
 
-- Tiếp tục các công việc của giai đoạn 2.
-- Lên kế hoạch cho các AI chuyên biệt trong giai đoạn 3
+- Tiếp tục các công việc của giai đoạn 2 là cá nhân hóa trải nghiệm người dùng
+- Lên kế hoạch xây dựng các AI chuyên biệt cho từng lĩnh vực như đào tạo, nghiên cứu khoa học, ... trong giai đoạn 3
 
 ⚠️ **Khó khăn vướng mắc:**
 
@@ -26,5 +26,5 @@ Chưa chủ động đề xuất phương án tài chính
 🌐 *Khó khăn khách quan:*
 
 Công việc phát sinh ngoài kế hoạch công việc
-Không có máy chủ đủ tốt để host cổng truy cập
+Không có máy móc trang thiết bị (máy chủ, máy tính có GPU) đủ tốt để host cổng truy cập
 Không có ngân sách hoặc cơ chế tài chính để thanh toán cho các nhà cung cấp dịch vụ AI.

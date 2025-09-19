@@ -10,6 +10,7 @@
 - Các Khoa đã hoàn thiện danh sách cựu sinh viên và ban liên lạc.
 - Thành lập Ban liên lạc Cựu sinh viên của Trường Công nghệ.
 - Ban liên lạc Cựu sinh viên của Trường tham gia vào các hoạt động của Cựu sinh viên Đại học.
+- Hỗ trợ cựu sinh viên Khóa 17 Khoa Toán Kinh tế (Toán và Máy tính 17) tổ chức hội khóa
 
 🧰 **Những công việc cần hoàn thiện:**
 

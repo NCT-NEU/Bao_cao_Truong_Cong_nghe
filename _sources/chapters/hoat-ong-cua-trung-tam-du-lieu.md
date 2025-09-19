@@ -11,6 +11,7 @@
 - Đề xuất Giám đốc đại học bổ nhiệm cán bộ phụ trách (TS. Phạm Thảo)
 - Hoàn thành khảo sát nhu cầu sử dụng dữ liệu của cán bộ giảng viên trong Đại học
 - Xây dựng các công cụ thu thập các dữ liệu phục vụ nghiên cứu và đào tạo (vĩ mô, chứng khoán, tài chính, …).
+- Đã cài đặt phần mềm Stata lên máy chủ và cho người dùng trải nghiệm
 
 🧰 **Những công việc cần hoàn thiện:**
 

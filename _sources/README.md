@@ -1,6 +1,6 @@
 # Báo cáo hoạt động Trường Công nghệ
 
-**Cập nhật ngày 31 tháng 08 năm 2025**
+**Cập nhật ngày 19 tháng 09 năm 2025**
 
 Đây là báo cáo cập nhật **định kỳ hàng tuần** về toàn bộ hoạt động của Trường Công nghệ - Đại học Kinh tế Quốc dân. Báo cáo tổng hợp đầy đủ các đầu mục trong kế hoạch công tác đã được phê duyệt và các nhiệm vụ phát sinh trong năm 2025, đồng thời trình bày thực trạng, những khó khăn/vướng mắc và đề xuất giải pháp cho từng đầu mục.
 
@@ -14,7 +14,7 @@
 | Công tác đào tạo nhân sự           |                              2  |                                  0  |
 | Công tác sinh viên/cựu sinh viên.  |                              4  |                                  0  |
 | Đào tạo và hỗ trợ đào tạo.         |                              5  |                                  5  |
-| Nghiên cứu Khoa học.               |                              0  |                                  3  |
+| Nghiên cứu Khoa học.               |                              1  |                                  2  |
 | Tư vấn tuyển sinh.                 |                              2  |                                  0  |
 | Xây dựng quy chế/quy định.         |                              3  |                                  0  |
 ```
@@ -60,9 +60,9 @@
 
 * - Nghiên cứu Khoa học.
   - 
+    - [Hoạt động của Trung tâm mô phỏng kinh tế](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/hoat-ong-cua-trung-tam-mo-phong-kinh-te.html)
   - 
     - [Hoạt động của các Phòng nghiên cứu (Labs)](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/hoat-ong-cua-cac-phong-nghien-cuu-labs.html)
-    - [Hoạt động của Trung tâm mô phỏng kinh tế](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/hoat-ong-cua-trung-tam-mo-phong-kinh-te.html)
     - [Quy định đào tạo Nghiên cứu sinh toàn thời gian](https://nct-neu.github.io/Bao_cao_Truong_Cong_nghe/chapters/quy-inh-ao-tao-nghien-cuu-sinh-toan-thoi-gian.html)
 
 * - Tư vấn tuyển sinh.

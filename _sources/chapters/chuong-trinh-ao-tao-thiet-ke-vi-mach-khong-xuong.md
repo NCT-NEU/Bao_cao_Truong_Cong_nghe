@@ -8,6 +8,7 @@
 ✅ **Các công việc đã làm:**
 
 - Tham khảo các đơn vị đào tạo trong nước và trên thế giới về đào tạo bán dẫn.
+- Tham quan các phòng lab sản xuất và lập trình chip bán dẫn ở đại học quốc gia
 
 🧰 **Những công việc cần hoàn thiện:**
 
@@ -19,6 +20,7 @@
 🧠 *Khó khăn chủ quan:*
 
 Trường Công nghệ không có đủ chuyên gia có đủ chuyên môn có khả năng xây dựng chương trình đào tạo ngành đào tạo bán dẫn.
+Trường Công nghệ không có đủ nguồn lực, cơ sở vật chất, tài chính và con người để tự xây dựng chương trình
 
 🌐 *Khó khăn khách quan:*
 

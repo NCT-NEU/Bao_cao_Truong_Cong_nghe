@@ -9,13 +9,14 @@
 
 - Hoàn thiện giáo trình môn học
 - Hoàn thiện đề cương chi tiết cho môn học
-- Hoàn thiện bộ bài giảng môn học
+- Hoàn thiện bộ bài giảng môn học (slides)
 - Triển khai tập huấn cho giảng viên toàn Trường Đại học Kinh tế Quốc dân.
+- Chuẩn bị ngân hàng câu hỏi và hệ thống trắc nghiệm để sinh viên luyện tập
 
 🧰 **Những công việc cần hoàn thiện:**
 
 - Rà soát cập nhật nội dung giáo trình và bài giảng
-- Chuẩn bị ngân hàng câu hỏi và đưa lên hệ thống thi trắc nghiệm
+- Hoàn thiện ngân hàng câu hỏi và đưa lên hệ thống thi trắc nghiệm
 - Tập huấn cho cán bộ giảng viên toàn NEU.
 
 ⚠️ **Khó khăn vướng mắc:**
@@ -27,5 +28,5 @@ Không có
 🌐 *Khó khăn khách quan:*
 
 Công việc không được phê duyệt trong kế hoạch hoạt động nên Trường Công nghệ bị động trong việc xây dựng môn học
-Không có máy móc trang thiết bị (máy chủ) tốt để triển khai môn học trên phạm vi rộng
+Không có máy móc trang thiết bị (máy chủ) tốt để triển khai môn học trên phạm vi rộng (đặc biệt trong Kỳ học tới)
 Hạ tầng mạng tại 1 số Phòng học không đáp ứng được yêu cầu của môn học (không có kết nối internet).
